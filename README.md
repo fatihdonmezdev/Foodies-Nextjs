@@ -2,6 +2,7 @@
 
 This project is an Food Recipe Sharing application I made with the help of Maximillian's course. I tried to write all the code on my own and get help only when I got stuck from the course.
 Validations for forms on Server Side,  useFormState Hook from React, Server actions from Next.js 14,Next.js 14 revalidating paths(caching), Next.js Server actions.
+
 **The design is taken from the course, NOT MINE**
 
 
