@@ -22,11 +22,14 @@ and it works!
 # **Images**
 **Homepage**
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/6a69ba9f-bac4-4aee-a318-297b88189a4d)
+
 **Detail Page**
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/7df8d16c-4961-4bfd-b7cc-0bbe07aeec5d)
+
 **Generated metadata in detail page**
 
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/497fdd80-2627-4337-b7e3-cdf5e8a07fac)
+
 **Upload your own recipe page with image upload feature and validations.**
 
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/61dfc025-ba65-4dc3-aa7b-e614c9782c47)
