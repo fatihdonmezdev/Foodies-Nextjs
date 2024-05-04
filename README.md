@@ -1,5 +1,5 @@
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/6a69ba9f-bac4-4aee-a318-297b88189a4d)
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/7df8d16c-4961-4bfd-b7cc-0bbe07aeec5d)
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/497fdd80-2627-4337-b7e3-cdf5e8a07fac)
-![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/c8e13c8e-9914-4b6c-a24c-69ebd9d0ef2a)
+![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/61dfc025-ba65-4dc3-aa7b-e614c9782c47)
 ![image](https://github.com/fatihdonmezdev/Foodies-Nextjs/assets/72231439/0767b857-a654-455b-8b08-27814aa6f464)
